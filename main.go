@@ -12,5 +12,6 @@ func main() {
 	// SimpleDataTypes.IMC()
 	// SimpleDataTypes.Division()
 	// SimpleDataTypes.Investment()
-	SimpleDataTypes.Marketplace()
+	// SimpleDataTypes.Marketplace()
+	SimpleDataTypes.SaveMoney()
 }
