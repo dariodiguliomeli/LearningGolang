@@ -1,6 +1,9 @@
 package main
 
-import "goBases/SimpleDataTypes"
+import (
+	"goBases/SimpleDataTypes"
+	"goBases/Strings"
+)
 
 func main() {
 	//simpleDataTypes()
@@ -9,7 +12,7 @@ func main() {
 }
 
 func strings() {
-
+	Strings.RepeatMyName()
 }
 
 func simpleDataTypes() {
