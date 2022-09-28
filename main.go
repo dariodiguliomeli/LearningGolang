@@ -13,7 +13,8 @@ func main() {
 func strings() {
 	//Strings.RepeatMyName()
 	//Strings.ReformatName()
-	Strings.InspectName()
+	//Strings.InspectName()
+	Strings.PhoneNumberFormat()
 }
 
 func simpleDataTypes() {
