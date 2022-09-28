@@ -2,6 +2,6 @@ package SimpleDataTypes
 
 import "fmt"
 
-func HelloWolrd() {
+func HelloWorld() {
 	fmt.Println("¡Hello World!")
 }
