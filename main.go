@@ -11,5 +11,6 @@ func main() {
 	// SimpleDataTypes.NewSum()
 	// SimpleDataTypes.IMC()
 	// SimpleDataTypes.Division()
-	SimpleDataTypes.Investment()
+	// SimpleDataTypes.Investment()
+	SimpleDataTypes.Marketplace()
 }
