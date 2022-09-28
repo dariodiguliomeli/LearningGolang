@@ -8,11 +8,11 @@ import (
 func main() {
 	//simpleDataTypes()
 	strings()
-
 }
 
 func strings() {
-	Strings.RepeatMyName()
+	//Strings.RepeatMyName()
+	Strings.ReformatName()
 }
 
 func simpleDataTypes() {
