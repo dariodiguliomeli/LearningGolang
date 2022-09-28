@@ -16,7 +16,8 @@ func strings() {
 	//Strings.InspectName()
 	//Strings.PhoneNumberFormat()
 	//Strings.RevertText()
-	Strings.UpperSingleCharacter()
+	//Strings.UpperSingleCharacter()
+	Strings.ChangeEmailDomain()
 }
 
 func simpleDataTypes() {
