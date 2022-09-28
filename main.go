@@ -13,5 +13,6 @@ func main() {
 	// SimpleDataTypes.Division()
 	// SimpleDataTypes.Investment()
 	// SimpleDataTypes.Marketplace()
-	SimpleDataTypes.SaveMoney()
+	// SimpleDataTypes.SaveMoney()
+	SimpleDataTypes.Bakery()
 }
