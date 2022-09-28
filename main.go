@@ -9,5 +9,6 @@ func main() {
 	//SimpleDataTypes.SimpleOperation()
 	//SimpleDataTypes.CalculateSalary()
 	//SimpleDataTypes.NewSum()
-	SimpleDataTypes.IMC()
+	//SimpleDataTypes.IMC()
+	SimpleDataTypes.Division()
 }
