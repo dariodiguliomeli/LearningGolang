@@ -12,7 +12,8 @@ func main() {
 
 func strings() {
 	//Strings.RepeatMyName()
-	Strings.ReformatName()
+	//Strings.ReformatName()
+	Strings.InspectName()
 }
 
 func simpleDataTypes() {
