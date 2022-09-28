@@ -14,7 +14,8 @@ func strings() {
 	//Strings.RepeatMyName()
 	//Strings.ReformatName()
 	//Strings.InspectName()
-	Strings.PhoneNumberFormat()
+	//Strings.PhoneNumberFormat()
+	Strings.RevertText()
 }
 
 func simpleDataTypes() {
