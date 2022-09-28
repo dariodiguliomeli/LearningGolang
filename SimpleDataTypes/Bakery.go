@@ -15,5 +15,4 @@ func Bakery() {
 	partialPrice := oldBreadSold * BREADPRICE
 	totalPrice := partialPrice - (partialPrice * OLDBREADDISCOUNT)
 	fmt.Printf("The total price sold today is $%.2f\n", totalPrice)
-
 }

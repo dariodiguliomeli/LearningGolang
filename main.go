@@ -4,6 +4,12 @@ import "goBases/SimpleDataTypes"
 
 func main() {
 	//simpleDataTypes()
+	strings()
+
+}
+
+func strings() {
+
 }
 
 func simpleDataTypes() {
